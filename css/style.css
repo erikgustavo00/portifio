@@ -48,7 +48,7 @@ body{
     
 }
 .conteiner{
-    margin-left:20%;
+    margin-left:18%;
     width: 80% ;
     height: 500px;
     display: inline-block;
@@ -57,14 +57,15 @@ body{
 }
 .foto{
     display: inline-block;
-    width: 5%;
+    width: 22%;
+    
 }
 
 
-.foto img{
+.foto video{
     border-radius: 100%;
-    width: 300%;
-    height: 100%;
+    width: 100%;
+   
     
     
 }
